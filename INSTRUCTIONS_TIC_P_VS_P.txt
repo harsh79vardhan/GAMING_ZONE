@@ -1,0 +1,32 @@
+
+
+
+
+
+            .....................................................................................................................................
+            .....................................................................................................................................
+            ::                                                                                                                                 ::
+            ::                         PLEASE READ THE INSTRUCTONS OF THE GAME(TIC TAC TOE PLAYER VS PLAYER) CAREFULLY.                        ::
+            ::                                                                                                                                 ::
+            ::1. THE GAME IS PLAYED ON A 3 X 3 GRID.                                                                                           ::
+            ::                                                                                                                                 ::
+            ::2. THERE ARE TWO PLAYERS, X AND O, WHO TAKE TURNS TO PLACE THEIR MARK ON THE GRID.                                               ::
+            ::                                                                                                                                 ::
+            ::3. THE PLAYER WHO SUCCEEDS IN PLACING THREE OF THEIR MARKS IN A HORIZONTAL, VERTICAL, OR DIAGONAL ROW WINS THE GAME.             ::
+            ::                                                                                                                                 ::
+            ::4. IF ALL THE SQUARES ARE FILLED WITH NO PLAYER ACHIEVING A WINNING PATTERN, THE GAME IS CONSIDERED A TIE.                       ::
+            ::                                                                                                                                 ::
+            ::5. THE FIRST PLAYER, X, TYPICALLY GOES FIRST.                                                                                    ::
+            ::                                                                                                                                 ::
+            ::6. PLAYERS CANNOT PLACE THEIR MARK ON A SQUARE THAT HAS ALREADY BEEN TAKEN BY THEIR OPPONENT.                                    ::
+            ::                                                                                                                                 ::
+            ::7. THE GAME ENDS AS SOON AS A PLAYER HAS THREE OF THEIR MARKS IN A ROW, OR WHEN ALL SQUARES ARE FILLED AND NO PLAYER HAS WON.    ::
+            ::                                                                                                                                 ::
+            ::8. IF A PLAYER MAKES AN ILLEGAL MOVE, SUCH AS PLACING THEIR MARK ON AN ALREADY TAKEN SQUARE, THEY HAVE TO PLAY THEIR TURN AGAIN. ::
+            ::                                                                                                                                 ::
+            ::                                             THAT'S IT! HAVE FUN PLAYING TIC TAC TOE!                                            ::
+            ::                                                                                                                                 ::
+            .....................................................................................................................................
+            .....................................................................................................................................
+
+            ENTER ANY KEY TO CONTINUE.....

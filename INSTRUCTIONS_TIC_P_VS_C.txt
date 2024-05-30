@@ -1,0 +1,35 @@
+
+
+
+
+
+        ................................................................................................................................................
+        ................................................................................................................................................
+        ::                                                                                                                                            ::
+        ::                             PLEASE READ THE INSTRUCTONS OF THE GAME(TIC TAC TOE PLAYER VS COMPUTER) CAREFULLY.                             ::
+        ::                                                                                                                                            ::
+        ::1. THE GAME IS PLAYED ON A 3 X 3 GRID.                                                                                                      ::
+        ::                                                                                                                                            ::
+        ::2. THE PLAYER, REPRESENTED BY X.                                                                                                            ::
+        ::                                                                                                                                            ::
+        ::3. THE COMPUTER, REPRESENTED BY O.                                                                                                          ::
+        ::                                                                                                                                            ::
+        ::4. PLAYERS TAKE TURNS PLACING THEIR MARK ON THE GRID. THE PLAYER TRIES TO GET THREE OF THEIR MARKS IN A ROW,                                ::
+        ::   WHILE THE COMPUTER TRIES TO PREVENT THE PLAYER FROM DOING SO AND TRIES TO GET THREE OF ITS MARKS IN A ROW.                               ::
+        ::                                                                                                                                            ::
+        ::5. THE FIRST PLAYER TO GET THREE OF THEIR MARKS IN A HORIZONTAL, VERTICAL, OR DIAGONAL ROW WINS THE GAME.                                   ::
+        ::                                                                                                                                            ::
+        ::6. IF ALL SQUARES ARE FILLED AND NO PLAYER HAS WON, THE GAME IS CONSIDERED A TIE.                                                           ::
+        ::                                                                                                                                            ::
+        ::7. THE PLAYER CAN ONLY PLACE THEIR MARK ON AN EMPTY SQUARE ON THE GRID.                                                                     ::
+        ::                                                                                                                                            ::
+        ::8. THE COMPUTER'S MOVES ARE DETERMINED BY AN ALGORITHM THAT TRIES TO SELECT THE BEST POSSIBLE MOVE BASED ON THE CURRENT STATE OF THE GAME.  ::
+        ::                                                                                                                                            ::
+        ::9. IF THE PLAYER MAKES AN ILLEGAL MOVE, SUCH AS PLACING THEIR MARK ON AN ALREADY TAKEN SQUARE, THEY HAVE TO PLAY THEIR TURN AGAIN.          ::
+        ::                                                                                                                                            ::
+        ::                                        THAT'S IT! HAVE FUN PLAYING TIC TAC TOE AGAINST THE COMPUTER!                                       ::
+        ::                                                                                                                                            ::
+        ................................................................................................................................................
+        ................................................................................................................................................
+
+        ENTER ANY KEY TO CONTINUE.....

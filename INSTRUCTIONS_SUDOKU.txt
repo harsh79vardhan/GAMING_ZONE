@@ -1,0 +1,38 @@
+
+
+
+
+
+        .............................................................................................................................................
+        .............................................................................................................................................
+        ::                                                                                                                                         ::
+        ::                                        PLEASE READ THE INSTRUCTONS OF THE GAME(SUDOKU) CAREFULLY.                                       ::
+        ::                                                                                                                                         ::
+        ::1. THE GAME IS PLAYED ON A 9 X 9 GRID, WHICH IS DIVIDED INTO NINE 3 X 3 BOXES.                                                           ::
+        ::                                                                                                                                         ::
+        ::2. EACH ROW, COLUMN, AND 3 X 3 BOX MUST CONTAIN ALL THE DIGITS FROM 1 TO 9, WITHOUT ANY REPETITION.                                      ::
+        ::                                                                                                                                         ::
+        ::3. THE GAME STARTS WITH SOME OF THE SQUARES ALREADY FILLED IN WITH NUMBERS.                                                              ::
+        ::                                                                                                                                         ::
+        ::4. THE GOAL OF THE GAME IS TO FILL IN THE REMAINING SQUARES WITH THE CORRECT NUMBERS.                                                    ::
+        ::                                                                                                                                         ::
+        ::5. EACH LEVEL OF DIFFICULTY WILL HAVE A DIFFERENT NUMBER OF SQUARES PRE-FILLED.                                                          ::
+        ::                                                                                                                                         ::
+        ::6. EASY LEVEL: THE PUZZLE WILL HAVE MORE PRE-FILLED SQUARES, MAKING IT EASIER TO SOLVE.                                                  ::
+        ::                                                                                                                                         ::
+        ::7. MEDIUM LEVEL: THE PUZZLE WILL HAVE FEWER PRE-FILLED SQUARES THAN THE EASY LEVEL, MAKING IT A BIT MORE CHALLENGING.                    ::
+        ::                                                                                                                                         ::
+        ::8. HARD LEVEL: THE PUZZLE WILL HAVE EVEN FEWER PRE-FILLED SQUARES THAN THE MEDIUM LEVEL, MAKING IT THE MOST CHALLENGING LEVEL.           ::
+        ::                                                                                                                                         ::
+        ::9. EACH LEVEL OF DIFFICULTY MAY HAVE A UNIQUE SOLUTION, AND IT'S POSSIBLE TO SOLVE THE PUZZLE USING LOGIC AND DEDUCTION.                 ::
+        ::                                                                                                                                         ::
+        ::10. THE PLAYER CAN ONLY PLACE A NUMBER IN A SQUARE CONTAINING ZERO, IF IT DOES NOT ALREADY APPEAR IN THE SAME ROW, COLUMN, OR 3 X 3 BOX. ::
+        ::                                                                                                                                         ::
+        ::11. THE GAME ENDS WHEN ALL SQUARES HAVE BEEN FILLED IN WITH THE CORRECT NUMBERS.                                                         ::
+        ::                                                                                                                                         ::
+        ::                                  THAT'S IT! HAVE FUN PLAYING SUDOKU AT DIFFERENT LEVELS OF DIFFICULTY!                                  ::
+        ::                                                                                                                                         ::
+        .............................................................................................................................................
+        .............................................................................................................................................
+
+        ENTER ANY KEY TO CONTINUE.....
